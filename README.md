@@ -1,6 +1,7 @@
 # MBSinBLG
 
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://fernandopenaranda.github.io/Non_linear-optics_in_TBG.dev)
+[![DOI](https://zenodo.org/badge/1102942866.svg)](https://doi.org/10.5281/zenodo.17702852)
 
 For the sake of reproducibility, we show in this repo: the code, the data files, and the plotting functions used to generate the figures in our work: *Intrinsic and Extrinsic Photogalvanic Effects in Twisted Bilayer Graphene* [Phys. Rev. Lett. 133, 256603](https://doi.org/10.1103/PhysRevLett.133.256603)
 
