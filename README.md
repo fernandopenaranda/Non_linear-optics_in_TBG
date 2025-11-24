@@ -8,7 +8,7 @@ For the sake of reproducibility, we show in this repo: the code, the data files,
 Remarks:  
 
 0. All the code provided here is written in Julia (v1.0 >)
-1. The data files used to build each figure can be either directly accessed at `Non_linear-optics_in_TBG/data` or generated using the Non_linear-optics_in_TBG/src/Paper/paper_figures.ipynb file that also contains the plotting functions used in the main and supplementary sections
+1. Data files used to build each figure can be either directly accessed at `Non_linear-optics_in_TBG/data` or generated using the Non_linear-optics_in_TBG/src/Paper/paper_figures.ipynb file that also contains the plotting functions used in the main and supplementary sections
 
 ## Installation
 
