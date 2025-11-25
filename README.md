@@ -1,4 +1,4 @@
-# MBSinBLG
+# Non_linear-optics_in_TBG
 
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://fernandopenaranda.github.io/Non_linear-optics_in_TBG.dev)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17702853.svg)](https://doi.org/10.5281/zenodo.17702853)
